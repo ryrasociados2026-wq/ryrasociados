@@ -133,4 +133,19 @@ flex-direction:column;
 }
 
 }
+.boton{
+display:inline-block;
+margin-top:20px;
+padding:14px 28px;
+background:#ffffff;
+color:#0b3d91;
+text-decoration:none;
+font-weight:bold;
+border-radius:8px;
+transition:0.3s;
+}
 
+.boton:hover{
+background:#e3f2fd;
+transform:scale(1.05);
+}
